@@ -92,3 +92,5 @@ Traceback (most recent call last):
     super(EditProfileForm, self).__init_(*args, **kwargs)
 AttributeError: 'super' object has no attribute '_EditProfileForm__init_'
 2018-05-28 19:47:11,634 INFO: Microblog startup [in /Users/danielobembe/Projects/microblog/app/__init__.py:50]
+2018-05-29 17:30:41,094 INFO: Microblog startup [in /Users/danielobembe/Projects/microblog/app/__init__.py:50]
+2018-05-29 17:31:06,823 INFO: Microblog startup [in /Users/danielobembe/Projects/microblog/app/__init__.py:50]
