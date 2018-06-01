@@ -105,3 +105,4 @@ AttributeError: 'super' object has no attribute '_EditProfileForm__init_'
 2018-05-30 17:58:11,078 INFO: Microblog startup [in /Users/danielobembe/Projects/microblog/app/__init__.py:50]
 2018-05-30 18:19:27,802 INFO: Microblog startup [in /Users/danielobembe/Projects/microblog/app/__init__.py:50]
 2018-05-30 18:21:09,539 INFO: Microblog startup [in /Users/danielobembe/Projects/microblog/app/__init__.py:50]
+2018-05-31 19:43:44,696 INFO: Microblog startup [in /Users/danielobembe/Projects/microblog/app/__init__.py:50]
